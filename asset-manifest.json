@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Covid19indiantracker/static/css/main.286d0f98.css",
+    "main.js": "/Covid19indiantracker/static/js/main.a0797d86.js",
+    "index.html": "/Covid19indiantracker/index.html",
+    "main.286d0f98.css.map": "/Covid19indiantracker/static/css/main.286d0f98.css.map",
+    "main.a0797d86.js.map": "/Covid19indiantracker/static/js/main.a0797d86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.286d0f98.css",
+    "static/js/main.a0797d86.js"
+  ]
+}
